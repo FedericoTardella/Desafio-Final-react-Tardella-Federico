@@ -1,0 +1,21 @@
+.itemCount{
+    background-color: #915831;
+    text-align: center;
+
+}
+.botonItem{
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 290px;
+    border-radius: 10px;
+}
+.divCantidad{
+    display: flex;
+}
+.cantidad{
+    margin: 4px;
+}
+.divAgregar{
+    margin: 4px;
+}

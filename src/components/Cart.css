@@ -1,0 +1,17 @@
+.style{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+}
+p{
+    margin: 10px;
+}
+a:hover {
+    color: black;
+}
+.divproducto{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}

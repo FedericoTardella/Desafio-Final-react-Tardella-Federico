@@ -1,0 +1,19 @@
+.contenedorf{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    font-size: 15px;
+    background-color: #462A18;
+    position: sticky;
+    bottom: 0;
+    color: white;
+    padding: 10px;
+
+}
+.hijosf{
+        width: 500px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}

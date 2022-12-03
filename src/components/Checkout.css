@@ -1,0 +1,14 @@
+.checkout{
+    color: white;
+    align-items: center;
+    text-align: center;
+}
+input{
+    height: 20px;
+    width: 250px;
+    text-align: center;
+    margin: 10px
+}
+button{
+    margin: 10px
+}
